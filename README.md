@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Python, Next.js**
 
-- 📝 I regularly write articles on [https://twitter.com/Tom424635244395](https://twitter.com/Tom424635244395)
+- 📝 I regularly write on: [https://twitter.com/Tom424635244395](https://twitter.com/Tom424635244395)
 
-- 📫 How to reach me **balmacedatomas123@gmail.com**
+- 📫 How to reach me: **balmacedatomas123@gmail.com**
 
 - ⚡ Fun fact **I'm 19 years old**
 
